@@ -1,0 +1,301 @@
+Customer_ID,Age,Gender,Account_Type,Credit_Score,Transaction_Amount,Transaction_Type,Transaction_Mode,Is_New_Device,Unusual_Pattern,Location,Is_Scam,Scam_Type,OTP_Failed_Attempts,Velocity_Transaction_Count,Transaction_Hour,Past_Scam_Count
+C1000,56,Male,Savings,377,10311.05,UPI,Domestic,No,No,Delhi,0,None,0,6,7,0
+C1001,69,Other,Business,756,91883.18,UPI,International,No,Yes,London,0,None,0,8,22,0
+C1002,46,Male,Business,300,79029.46,Card,International,No,No,Chennai,0,None,2,8,0,0
+C1003,32,Male,Salary,350,2399.96,ATM,International,Yes,No,Chennai,0,None,0,9,19,1
+C1004,60,Female,Savings,745,65171.58,NEFT,International,No,Yes,Mumbai,0,None,0,7,11,0
+C1005,25,Other,Salary,748,77147.54,Cheque,Domestic,No,No,Hyderabad,1,Phishing,2,2,22,3
+C1006,38,Other,Business,787,37506.09,Cheque,International,No,No,Mumbai,0,None,1,8,10,1
+C1007,56,Female,Business,333,6985.26,NEFT,International,No,Yes,Bangalore,0,None,0,7,6,0
+C1008,36,Female,Current,647,7824.37,UPI,Domestic,No,No,Delhi,1,Phishing,3,8,14,1
+C1009,40,Other,Savings,394,10514.27,UPI,International,No,No,New York,0,None,1,3,21,0
+C1010,28,Other,Salary,371,84059.92,ATM,Domestic,No,Yes,Singapore,0,None,0,7,23,1
+C1011,28,Female,Business,850,91077.55,Online,International,No,No,Delhi,0,None,1,9,10,1
+C1012,41,Male,Business,453,12368.8,Card,Domestic,Yes,No,Delhi,0,None,0,3,21,1
+C1013,70,Male,Salary,549,23667.01,UPI,Domestic,No,No,Mumbai,1,Credit Card Fraud,4,6,15,3
+C1014,53,Female,Current,737,16635.5,Cheque,Domestic,No,No,Singapore,0,None,1,2,2,1
+C1015,57,Male,Business,417,18713.46,ATM,Domestic,No,No,Singapore,1,Phishing,4,2,19,1
+C1016,41,Female,Savings,605,83765.33,Card,International,Yes,Yes,Singapore,0,None,1,5,13,1
+C1017,20,Male,Business,567,33281.43,ATM,Domestic,No,No,Mumbai,1,Identity Theft,3,5,2,1
+C1018,39,Male,Savings,353,31213.28,Card,International,No,No,Delhi,0,None,1,7,0,1
+C1019,70,Other,Salary,535,22816.82,Card,Domestic,No,No,Mumbai,0,None,1,2,20,1
+C1020,19,Other,Savings,688,60828.65,NEFT,Domestic,Yes,Yes,Chennai,0,None,0,7,14,0
+C1021,41,Male,Salary,700,37992.64,UPI,Domestic,No,No,Chennai,1,Credit Card Fraud,2,5,0,1
+C1022,61,Male,Savings,602,74450.54,ATM,International,No,Yes,Mumbai,0,None,1,6,16,1
+C1023,47,Other,Salary,506,20637.42,ATM,Domestic,Yes,No,Singapore,0,None,1,8,1,1
+C1024,55,Other,Savings,528,78800.21,NEFT,International,No,No,London,0,None,2,4,19,0
+C1025,19,Other,Current,877,60411.78,Cheque,International,No,No,Delhi,0,None,0,7,5,0
+C1026,38,Female,Savings,374,11515.3,Cheque,International,No,No,Mumbai,1,Phishing,2,6,7,3
+C1027,50,Male,Savings,734,41509.01,UPI,International,No,No,Mumbai,0,None,0,2,15,0
+C1028,29,Other,Current,402,86365.46,UPI,International,No,No,Mumbai,0,None,0,8,18,1
+C1029,39,Male,Business,721,92303.73,Online,International,No,No,London,0,None,0,9,0,1
+C1030,61,Female,Business,605,46623.44,NEFT,International,No,No,London,0,None,1,5,2,0
+C1031,42,Female,Savings,397,48135.61,Cheque,International,No,No,Bangalore,0,None,0,4,2,0
+C1032,66,Other,Current,634,91853.63,Card,International,No,No,Chennai,0,None,0,6,4,0
+C1033,44,Female,Savings,734,58748.12,ATM,Domestic,No,No,New York,0,None,0,8,11,0
+C1034,59,Male,Salary,746,3381.38,UPI,Domestic,No,No,Singapore,0,None,0,3,11,0
+C1035,45,Other,Salary,607,91283.67,ATM,Domestic,No,No,Hyderabad,0,None,0,1,19,0
+C1036,33,Male,Savings,548,24897.82,ATM,Domestic,No,No,London,0,None,0,4,12,1
+C1037,32,Male,Business,465,57805.43,Online,Domestic,No,No,New York,0,None,1,4,19,1
+C1038,64,Female,Business,780,16634.78,Cheque,International,No,Yes,London,0,None,1,1,8,1
+C1039,68,Female,Savings,634,3484.53,UPI,International,Yes,No,Singapore,0,None,0,9,6,0
+C1040,61,Female,Savings,841,31216.17,ATM,International,No,No,Hyderabad,1,Fake Account,1,3,3,1
+C1041,72,Female,Salary,405,78071.52,UPI,International,Yes,No,Bangalore,1,Account Takeover,2,5,18,2
+C1042,69,Female,Business,862,27830.96,Card,International,No,No,Mumbai,0,None,2,6,21,1
+C1043,74,Other,Savings,380,22087.71,Online,International,No,No,Bangalore,0,None,1,8,18,0
+C1044,20,Male,Salary,432,21346.81,Card,International,No,No,London,1,Phishing,2,6,5,2
+C1045,54,Male,Business,437,51565.85,UPI,Domestic,No,No,Bangalore,0,None,1,3,12,1
+C1046,68,Male,Current,483,97556.58,UPI,Domestic,No,Yes,New York,0,None,0,6,10,0
+C1047,24,Male,Salary,700,45953.0,Cheque,Domestic,No,No,Delhi,0,None,0,1,12,1
+C1048,38,Female,Business,629,55774.81,ATM,Domestic,Yes,Yes,London,0,None,4,4,12,1
+C1049,26,Male,Business,807,86077.14,ATM,International,No,No,London,0,None,0,6,21,0
+C1050,56,Other,Salary,368,53553.46,Card,International,Yes,No,New York,0,None,0,7,19,1
+C1051,35,Other,Current,845,18527.84,Online,International,Yes,No,Chennai,1,Identity Theft,2,3,14,2
+C1052,21,Male,Salary,352,30029.63,NEFT,Domestic,No,Yes,Hyderabad,1,Money Laundering,0,9,20,3
+C1053,42,Male,Business,749,31062.7,ATM,International,No,Yes,Mumbai,0,None,0,7,12,0
+C1054,31,Other,Savings,504,39792.08,Cheque,International,No,No,New York,0,None,0,1,21,1
+C1055,67,Other,Savings,425,42736.21,Card,International,No,Yes,Hyderabad,0,None,0,2,10,0
+C1056,26,Female,Salary,342,79998.22,Card,Domestic,No,Yes,Singapore,0,None,0,1,18,1
+C1057,43,Other,Business,410,35003.76,NEFT,International,No,Yes,Hyderabad,0,None,0,9,7,1
+C1058,70,Female,Savings,482,46876.36,Cheque,Domestic,No,No,Singapore,0,None,3,9,19,1
+C1059,19,Female,Business,394,62535.1,Online,Domestic,No,No,New York,1,Phishing,4,7,7,3
+C1060,37,Female,Salary,673,37834.82,Cheque,Domestic,Yes,No,London,0,None,1,3,9,0
+C1061,45,Female,Savings,819,83672.82,Online,Domestic,No,No,London,0,None,0,5,15,1
+C1062,64,Female,Business,659,58786.62,Cheque,International,No,No,Chennai,1,Money Laundering,1,4,18,3
+C1063,24,Male,Savings,580,29475.06,Cheque,Domestic,No,No,New York,0,None,0,7,22,1
+C1064,61,Other,Salary,494,71434.51,UPI,Domestic,No,No,Singapore,0,None,0,9,10,0
+C1065,25,Female,Business,494,52812.01,Card,International,No,Yes,Hyderabad,0,None,0,2,12,1
+C1066,64,Other,Savings,392,53492.14,Cheque,International,No,Yes,Hyderabad,0,None,1,8,8,0
+C1067,52,Other,Salary,360,48160.69,NEFT,Domestic,No,Yes,Singapore,0,None,0,9,19,1
+C1068,31,Female,Savings,350,49751.49,Cheque,International,No,No,Bangalore,0,None,1,9,23,1
+C1069,34,Male,Savings,702,76559.09,ATM,Domestic,No,No,Chennai,0,None,0,7,18,1
+C1070,53,Female,Current,304,10387.85,Card,Domestic,No,No,Delhi,1,Fake Account,3,9,15,2
+C1071,67,Male,Current,765,33502.84,ATM,Domestic,Yes,Yes,London,0,None,0,9,6,0
+C1072,57,Other,Salary,833,7642.79,Card,Domestic,Yes,Yes,Mumbai,0,None,0,3,18,1
+C1073,21,Male,Current,704,75349.3,ATM,International,Yes,No,Hyderabad,0,None,0,4,11,0
+C1074,19,Male,Salary,812,27302.96,Cheque,Domestic,No,No,Mumbai,0,None,0,2,14,0
+C1075,23,Male,Current,532,89753.3,Cheque,International,No,No,Delhi,0,None,1,3,22,1
+C1076,71,Other,Savings,823,52705.19,UPI,International,Yes,No,New York,0,None,0,5,13,0
+C1077,59,Other,Salary,645,80094.9,NEFT,International,No,No,Mumbai,0,None,0,5,10,0
+C1078,21,Male,Salary,345,97895.25,ATM,International,Yes,No,Delhi,0,None,0,6,9,0
+C1079,71,Male,Savings,845,83994.91,Online,Domestic,No,Yes,London,0,None,1,7,10,1
+C1080,46,Female,Salary,377,86712.68,UPI,International,No,No,Singapore,0,None,0,7,5,0
+C1081,35,Male,Salary,372,40857.65,ATM,Domestic,Yes,No,Bangalore,0,None,0,1,1,0
+C1082,43,Female,Current,548,55217.09,ATM,International,No,No,London,1,Phishing,2,2,10,2
+C1083,61,Male,Salary,346,25463.47,UPI,International,Yes,No,Hyderabad,0,None,0,9,18,1
+C1084,51,Female,Business,420,19691.7,Cheque,Domestic,Yes,Yes,Delhi,0,None,1,2,5,0
+C1085,27,Other,Savings,513,50600.24,ATM,Domestic,No,No,Mumbai,0,None,0,6,13,1
+C1086,53,Male,Current,538,59545.39,Cheque,Domestic,No,No,Hyderabad,0,None,0,1,19,0
+C1087,31,Male,Current,355,33993.2,UPI,International,No,No,Bangalore,0,None,1,3,5,0
+C1088,48,Male,Business,649,56987.41,Cheque,International,No,No,Singapore,0,None,1,2,16,0
+C1089,65,Male,Savings,406,88757.3,Card,Domestic,No,No,New York,0,None,1,3,9,1
+C1090,32,Female,Savings,347,55716.49,Online,Domestic,No,No,Hyderabad,0,None,0,5,0,0
+C1091,25,Male,Current,872,72109.23,ATM,Domestic,Yes,No,New York,0,None,3,6,2,1
+C1092,31,Other,Salary,636,80550.97,NEFT,Domestic,No,No,Delhi,0,None,0,9,7,1
+C1093,40,Other,Current,325,98874.01,Online,International,Yes,No,Bangalore,0,None,0,4,7,0
+C1094,74,Male,Savings,556,60359.42,Cheque,Domestic,Yes,Yes,Mumbai,1,Credit Card Fraud,2,7,19,1
+C1095,57,Other,Business,307,80704.33,ATM,Domestic,No,No,Bangalore,0,None,0,6,21,1
+C1096,38,Male,Current,552,96268.67,Cheque,Domestic,Yes,No,Bangalore,0,None,1,2,14,1
+C1097,33,Male,Savings,602,94446.53,Card,Domestic,No,No,Chennai,0,None,1,8,23,1
+C1098,62,Other,Current,355,14194.08,UPI,International,No,No,Bangalore,0,None,0,7,6,1
+C1099,35,Male,Salary,825,40698.59,ATM,Domestic,Yes,No,Bangalore,0,None,0,7,10,0
+C1100,64,Other,Current,773,32466.61,Card,International,No,No,London,0,None,1,8,6,1
+C1101,70,Female,Current,327,8783.81,Card,Domestic,Yes,No,Hyderabad,0,None,0,1,3,0
+C1102,41,Male,Savings,377,63360.75,ATM,Domestic,No,No,Mumbai,0,None,1,1,11,0
+C1103,43,Female,Savings,515,73616.87,Cheque,International,No,No,London,0,None,0,8,5,0
+C1104,42,Other,Savings,685,84828.0,NEFT,Domestic,No,Yes,London,0,None,0,4,13,0
+C1105,62,Female,Current,664,12365.41,Card,International,No,Yes,Hyderabad,0,None,0,5,11,0
+C1106,58,Female,Salary,825,87656.76,Online,International,Yes,No,Hyderabad,0,None,1,8,10,0
+C1107,46,Other,Business,611,64328.26,Card,Domestic,No,No,Delhi,0,None,0,5,18,1
+C1108,32,Female,Business,306,70424.22,NEFT,International,No,No,Hyderabad,0,None,0,4,20,1
+C1109,62,Female,Savings,302,91071.34,Cheque,International,No,No,Chennai,0,None,1,6,4,1
+C1110,18,Other,Savings,662,62513.65,Cheque,International,No,No,Chennai,0,None,0,5,13,0
+C1111,42,Female,Current,807,33653.0,Online,International,No,No,London,0,None,0,7,20,1
+C1112,24,Other,Business,573,82528.22,Card,International,Yes,No,New York,1,Money Laundering,2,7,23,3
+C1113,26,Female,Savings,805,36369.62,Cheque,International,Yes,No,Delhi,0,None,0,4,15,1
+C1114,41,Other,Salary,314,3519.39,NEFT,International,No,No,New York,0,None,0,5,12,0
+C1115,18,Other,Salary,491,83082.39,ATM,International,No,No,New York,0,None,1,3,21,1
+C1116,61,Female,Savings,784,34584.7,UPI,Domestic,No,No,London,0,None,2,4,21,0
+C1117,25,Female,Savings,327,77406.07,UPI,Domestic,No,No,Singapore,0,None,0,4,19,1
+C1118,41,Female,Business,338,36339.51,UPI,International,No,No,London,0,None,0,3,21,0
+C1119,28,Male,Business,572,86120.7,Card,Domestic,Yes,No,Mumbai,1,Fake Account,0,5,3,3
+C1120,68,Male,Current,530,22029.1,Online,International,No,Yes,Mumbai,0,None,0,5,10,0
+C1121,34,Male,Business,385,97457.27,Cheque,International,Yes,No,Hyderabad,0,None,0,7,16,1
+C1122,25,Other,Salary,773,77997.9,ATM,Domestic,No,No,Hyderabad,1,Credit Card Fraud,3,4,6,3
+C1123,52,Female,Salary,425,11512.37,NEFT,International,No,No,Singapore,0,None,1,4,13,0
+C1124,52,Other,Savings,836,56621.08,ATM,International,No,Yes,Hyderabad,0,None,0,9,10,1
+C1125,50,Male,Business,444,98538.19,NEFT,International,Yes,Yes,Mumbai,0,None,1,6,21,0
+C1126,22,Female,Current,824,47159.44,Card,International,No,Yes,New York,0,None,0,4,8,0
+C1127,59,Other,Salary,511,18292.5,UPI,Domestic,No,No,London,0,None,0,2,22,1
+C1128,56,Female,Salary,324,48529.36,Card,International,No,No,Bangalore,1,Credit Card Fraud,2,6,12,2
+C1129,58,Other,Current,879,51294.52,Online,International,Yes,No,Chennai,0,None,1,2,22,1
+C1130,45,Female,Current,693,74194.53,Online,International,No,No,Bangalore,0,None,0,5,17,0
+C1131,24,Male,Salary,366,69914.7,NEFT,Domestic,No,No,Bangalore,0,None,0,6,10,0
+C1132,26,Male,Salary,532,40314.75,Cheque,International,Yes,No,Mumbai,0,None,0,4,14,1
+C1133,25,Female,Current,408,21880.51,Cheque,Domestic,Yes,No,Bangalore,1,Credit Card Fraud,3,3,21,2
+C1134,29,Other,Salary,445,64540.91,NEFT,Domestic,Yes,No,London,0,None,1,7,18,1
+C1135,51,Male,Savings,410,42228.22,Online,International,No,No,Singapore,0,None,0,2,0,0
+C1136,50,Male,Savings,527,13314.39,Online,International,No,No,Delhi,0,None,0,6,3,1
+C1137,65,Male,Current,410,90067.17,Online,Domestic,No,No,Hyderabad,0,None,0,4,13,1
+C1138,72,Female,Business,769,69153.06,Card,International,Yes,No,Delhi,0,None,1,6,13,0
+C1139,40,Female,Current,333,68350.07,Online,Domestic,No,No,New York,0,None,0,4,2,1
+C1140,41,Other,Current,668,82276.13,ATM,Domestic,No,No,London,0,None,1,4,16,1
+C1141,54,Other,Business,894,53013.2,UPI,International,No,No,London,0,None,0,4,2,0
+C1142,52,Other,Business,853,81523.94,Online,International,No,Yes,Chennai,0,None,0,9,15,1
+C1143,61,Female,Business,724,49859.27,NEFT,Domestic,Yes,No,London,0,None,0,7,13,0
+C1144,57,Female,Savings,817,6810.82,UPI,Domestic,No,Yes,Hyderabad,0,None,2,3,19,1
+C1145,39,Other,Salary,581,40584.28,Card,Domestic,No,No,London,0,None,1,3,12,0
+C1146,44,Other,Savings,619,49796.74,NEFT,Domestic,No,No,Bangalore,0,None,0,6,14,1
+C1147,52,Female,Salary,742,72048.24,UPI,International,No,No,Chennai,0,None,0,6,13,1
+C1148,18,Other,Savings,614,10747.22,NEFT,International,No,Yes,Hyderabad,0,None,0,4,23,1
+C1149,52,Male,Salary,676,14087.85,Card,International,No,No,Singapore,0,None,0,9,18,1
+C1150,54,Female,Savings,588,26442.01,ATM,International,Yes,No,Singapore,0,None,1,4,5,0
+C1151,64,Other,Business,736,26723.19,Card,International,Yes,No,Singapore,0,None,0,9,9,0
+C1152,31,Female,Current,576,73245.24,Card,Domestic,No,No,Singapore,1,Credit Card Fraud,3,4,14,3
+C1153,20,Male,Savings,881,25147.99,NEFT,International,No,No,Bangalore,0,None,0,2,20,0
+C1154,18,Female,Salary,802,63346.5,Cheque,International,Yes,No,London,0,None,0,2,21,0
+C1155,22,Female,Business,815,49477.96,Online,International,Yes,Yes,Delhi,0,None,0,5,19,0
+C1156,43,Female,Savings,649,57372.11,Online,International,Yes,No,Hyderabad,0,None,0,4,5,0
+C1157,72,Female,Savings,745,83826.89,ATM,International,No,No,Bangalore,0,None,1,7,22,1
+C1158,31,Male,Business,649,40497.71,ATM,Domestic,Yes,No,Singapore,0,None,0,5,9,1
+C1159,56,Female,Savings,436,77114.05,Online,Domestic,No,Yes,New York,1,Phishing,2,6,6,1
+C1160,44,Female,Current,542,42261.4,Cheque,Domestic,Yes,No,London,0,None,0,4,21,1
+C1161,26,Other,Savings,842,35451.75,Online,International,No,Yes,Delhi,1,Account Takeover,2,2,16,2
+C1162,32,Female,Current,339,95866.86,Cheque,Domestic,Yes,No,New York,0,None,1,9,17,0
+C1163,32,Other,Current,528,18518.65,ATM,Domestic,No,No,Chennai,0,None,1,7,16,0
+C1164,43,Male,Business,847,9124.66,UPI,International,Yes,No,New York,1,Phishing,1,4,8,1
+C1165,59,Male,Savings,522,77121.49,NEFT,International,No,No,Chennai,0,None,0,3,9,0
+C1166,30,Male,Business,305,6918.15,ATM,International,Yes,No,Chennai,0,None,1,3,9,1
+C1167,68,Male,Savings,621,83724.19,ATM,Domestic,No,Yes,Singapore,0,None,1,9,6,0
+C1168,49,Other,Savings,767,43775.62,Card,Domestic,No,No,Chennai,0,None,1,5,15,0
+C1169,56,Female,Salary,374,91559.82,Card,International,No,No,Mumbai,0,None,1,3,17,0
+C1170,66,Male,Savings,303,72181.13,Card,International,No,No,Hyderabad,0,None,1,5,5,0
+C1171,69,Female,Business,417,61079.43,NEFT,Domestic,No,No,Hyderabad,0,None,0,2,19,1
+C1172,49,Other,Current,803,94935.75,Card,Domestic,No,No,Singapore,0,None,0,4,0,1
+C1173,21,Other,Savings,873,39725.27,Cheque,International,No,No,Mumbai,0,None,1,2,0,0
+C1174,47,Other,Salary,740,95413.28,Online,International,No,No,New York,0,None,1,2,11,1
+C1175,54,Male,Business,493,13586.63,UPI,Domestic,No,No,Bangalore,0,None,0,8,20,0
+C1176,40,Female,Savings,691,48427.12,ATM,International,No,No,New York,0,None,0,1,1,0
+C1177,56,Female,Business,325,27064.13,Cheque,Domestic,No,No,London,0,None,2,7,3,0
+C1178,62,Female,Salary,734,54030.29,UPI,Domestic,No,No,Bangalore,0,None,0,5,16,0
+C1179,32,Other,Salary,472,16285.19,Cheque,Domestic,Yes,Yes,Chennai,0,None,1,8,3,1
+C1180,60,Male,Business,599,84168.81,Cheque,Domestic,No,No,Delhi,0,None,0,1,10,0
+C1181,46,Other,Savings,625,84656.14,ATM,International,No,No,Bangalore,0,None,3,7,21,0
+C1182,53,Other,Current,709,95528.11,Online,International,Yes,No,Delhi,0,None,0,5,3,1
+C1183,30,Female,Salary,417,15551.75,Card,Domestic,No,Yes,Hyderabad,0,None,0,4,0,0
+C1184,49,Other,Savings,524,62370.92,NEFT,Domestic,Yes,No,Delhi,0,None,1,7,6,1
+C1185,24,Female,Savings,831,47476.31,Online,Domestic,No,No,Hyderabad,0,None,1,2,17,0
+C1186,68,Male,Current,412,34503.93,NEFT,Domestic,Yes,No,Mumbai,0,None,2,1,8,0
+C1187,39,Female,Salary,439,35218.86,ATM,Domestic,No,Yes,Mumbai,0,None,0,1,2,0
+C1188,45,Male,Salary,858,41338.08,ATM,International,No,No,Singapore,0,None,0,1,7,0
+C1189,19,Female,Savings,300,70522.06,ATM,International,No,No,Singapore,1,Phishing,3,5,23,1
+C1190,59,Other,Savings,389,59868.78,UPI,International,No,No,Chennai,1,Fake Account,2,7,18,1
+C1191,62,Other,Current,619,46022.18,NEFT,International,No,No,Bangalore,0,None,0,2,3,1
+C1192,74,Male,Current,849,7685.75,Online,Domestic,No,No,Chennai,0,None,2,8,17,0
+C1193,70,Male,Salary,438,7868.76,Online,Domestic,Yes,No,Hyderabad,0,None,0,4,19,1
+C1194,23,Male,Business,810,333.71,Cheque,Domestic,No,No,Chennai,0,None,1,3,10,1
+C1195,45,Female,Salary,558,96773.17,Cheque,Domestic,Yes,No,Delhi,0,None,0,8,13,0
+C1196,45,Female,Savings,309,624.86,Cheque,Domestic,No,No,Hyderabad,0,None,0,2,17,1
+C1197,61,Male,Salary,560,10399.07,ATM,International,No,Yes,Singapore,0,None,0,3,15,0
+C1198,61,Other,Business,471,31528.2,Online,Domestic,No,Yes,Mumbai,0,None,0,3,2,1
+C1199,37,Female,Current,312,80762.28,NEFT,International,No,No,Singapore,0,None,1,1,14,0
+C1200,47,Female,Business,467,96213.67,ATM,International,No,No,Bangalore,0,None,0,6,3,1
+C1201,28,Female,Business,895,79022.35,UPI,International,No,No,Hyderabad,0,None,0,2,4,1
+C1202,72,Male,Business,620,69086.97,Cheque,International,Yes,No,Hyderabad,1,Fake Account,1,1,16,2
+C1203,45,Male,Current,618,52177.94,ATM,Domestic,No,No,Delhi,0,None,1,2,6,1
+C1204,42,Male,Business,628,8761.85,ATM,International,Yes,No,Bangalore,0,None,1,6,15,0
+C1205,56,Male,Business,849,95821.26,UPI,International,No,Yes,Mumbai,0,None,2,4,13,0
+C1206,50,Male,Business,718,75863.4,Card,International,No,No,New York,0,None,0,6,15,0
+C1207,18,Other,Savings,394,63931.04,Online,Domestic,No,No,Hyderabad,0,None,0,9,6,0
+C1208,74,Other,Business,880,75927.68,NEFT,Domestic,Yes,Yes,Hyderabad,0,None,0,8,8,0
+C1209,44,Male,Current,617,72437.92,Card,Domestic,No,No,Delhi,0,None,1,1,3,1
+C1210,74,Female,Business,535,63759.43,Cheque,International,Yes,No,Chennai,0,None,0,8,21,1
+C1211,69,Male,Business,633,98059.62,ATM,International,No,No,London,0,None,3,9,10,1
+C1212,30,Other,Current,675,90346.04,UPI,Domestic,Yes,No,Mumbai,0,None,1,6,1,0
+C1213,58,Other,Business,758,64701.83,UPI,International,No,No,Singapore,0,None,0,5,11,1
+C1214,20,Female,Current,436,69348.2,Online,Domestic,No,No,Bangalore,0,None,0,6,11,1
+C1215,56,Other,Business,887,5254.42,Card,Domestic,No,No,Hyderabad,0,None,0,6,3,1
+C1216,23,Male,Current,846,67024.75,Online,International,No,No,Hyderabad,1,Account Takeover,1,9,17,1
+C1217,25,Female,Business,812,4512.13,ATM,International,No,No,Singapore,0,None,1,4,20,1
+C1218,44,Male,Business,595,58867.55,Online,International,No,Yes,Mumbai,0,None,1,2,6,0
+C1219,26,Male,Savings,619,99935.41,NEFT,International,No,No,London,0,None,0,9,0,0
+C1220,54,Female,Savings,871,55625.08,UPI,Domestic,No,No,Chennai,0,None,0,2,22,1
+C1221,50,Male,Business,648,47373.69,UPI,Domestic,No,No,Hyderabad,0,None,0,9,12,0
+C1222,68,Other,Business,528,31354.2,Cheque,Domestic,No,No,London,0,None,0,2,5,0
+C1223,59,Male,Salary,569,12140.21,Cheque,Domestic,No,No,Mumbai,1,Fake Account,1,8,5,2
+C1224,61,Female,Current,590,73129.26,ATM,Domestic,Yes,Yes,Singapore,0,None,0,9,11,1
+C1225,41,Female,Salary,464,19340.64,NEFT,International,No,No,Delhi,0,None,0,9,7,0
+C1226,32,Female,Savings,304,11616.67,Card,Domestic,Yes,No,Chennai,0,None,0,9,23,1
+C1227,71,Male,Savings,678,42234.09,Online,Domestic,No,Yes,Bangalore,0,None,1,2,21,0
+C1228,49,Female,Savings,377,79554.65,ATM,Domestic,No,Yes,Hyderabad,0,None,1,4,18,0
+C1229,49,Female,Savings,709,74531.95,Cheque,International,No,No,Mumbai,0,None,2,7,4,1
+C1230,41,Male,Business,873,5582.77,Online,International,No,No,Delhi,0,None,1,2,17,0
+C1231,58,Other,Savings,431,45568.85,Cheque,International,No,No,Bangalore,0,None,0,1,4,0
+C1232,69,Male,Business,900,52291.21,Online,International,No,No,New York,0,None,0,3,9,0
+C1233,66,Female,Business,341,64490.21,Card,Domestic,No,No,Mumbai,1,Identity Theft,1,4,0,1
+C1234,66,Female,Savings,388,65051.72,ATM,Domestic,Yes,No,Mumbai,0,None,2,8,9,1
+C1235,69,Male,Savings,701,36533.26,Online,International,No,No,Bangalore,1,Account Takeover,2,6,4,3
+C1236,29,Other,Current,595,56111.65,NEFT,International,Yes,No,Delhi,0,None,0,2,11,1
+C1237,56,Female,Salary,594,48158.08,UPI,Domestic,No,No,New York,1,Fake Account,3,9,21,1
+C1238,19,Female,Savings,825,88511.34,NEFT,Domestic,No,Yes,London,0,None,1,2,6,1
+C1239,20,Female,Current,721,53073.49,NEFT,International,No,No,London,0,None,0,5,8,1
+C1240,66,Male,Current,322,44159.11,UPI,International,No,No,Singapore,1,Account Takeover,1,4,21,1
+C1241,54,Female,Salary,874,40508.1,NEFT,International,No,No,Delhi,0,None,1,7,20,1
+C1242,66,Other,Business,442,57285.53,Online,International,Yes,Yes,Chennai,1,Phishing,2,8,11,2
+C1243,73,Female,Savings,444,80417.3,Online,Domestic,No,Yes,Hyderabad,0,None,0,5,22,0
+C1244,34,Female,Salary,524,53886.31,Online,Domestic,No,No,Bangalore,0,None,0,5,0,0
+C1245,66,Other,Savings,802,66199.35,UPI,Domestic,No,No,Singapore,0,None,0,2,10,1
+C1246,19,Female,Current,403,73811.79,NEFT,International,No,No,New York,0,None,0,8,20,1
+C1247,19,Male,Current,338,52064.79,UPI,International,No,No,Bangalore,0,None,3,2,14,0
+C1248,45,Male,Business,497,42739.02,Online,Domestic,Yes,No,Bangalore,0,None,1,6,1,1
+C1249,71,Male,Current,878,87678.87,NEFT,Domestic,No,Yes,Delhi,0,None,0,8,19,1
+C1250,40,Other,Current,690,41808.86,NEFT,Domestic,No,No,Hyderabad,0,None,0,6,6,0
+C1251,54,Female,Salary,478,46248.09,Cheque,Domestic,Yes,Yes,Chennai,0,None,0,4,20,0
+C1252,49,Male,Savings,853,99035.1,Cheque,International,No,No,London,0,None,1,4,11,1
+C1253,50,Other,Savings,747,123.73,Card,Domestic,Yes,No,Mumbai,0,None,0,6,21,1
+C1254,18,Female,Salary,799,18628.74,ATM,Domestic,Yes,No,Mumbai,0,None,1,4,17,1
+C1255,36,Other,Business,314,38457.99,Cheque,Domestic,Yes,Yes,Bangalore,0,None,0,8,2,0
+C1256,19,Male,Savings,588,93265.73,UPI,Domestic,No,Yes,London,0,None,0,9,6,0
+C1257,70,Male,Current,777,7095.97,Cheque,Domestic,No,No,London,0,None,2,1,10,0
+C1258,61,Male,Savings,530,1047.59,Card,Domestic,No,No,Hyderabad,0,None,0,4,17,0
+C1259,43,Other,Current,719,5363.12,NEFT,Domestic,No,No,New York,1,Phishing,2,4,11,3
+C1260,49,Other,Business,456,8945.49,Card,International,No,No,New York,0,None,1,2,5,0
+C1261,23,Male,Salary,849,3855.92,NEFT,International,No,No,Singapore,0,None,0,6,4,0
+C1262,49,Other,Savings,740,48030.15,NEFT,International,No,No,Delhi,0,None,0,3,0,1
+C1263,72,Male,Salary,396,58117.65,ATM,International,Yes,No,Hyderabad,0,None,0,7,11,1
+C1264,21,Male,Savings,710,27241.53,Cheque,Domestic,No,No,Hyderabad,0,None,0,5,10,1
+C1265,72,Female,Current,588,39888.91,UPI,International,Yes,No,Delhi,0,None,1,4,3,0
+C1266,28,Other,Salary,553,9260.76,UPI,International,No,Yes,London,0,None,0,5,17,1
+C1267,73,Male,Savings,495,33703.41,Online,Domestic,No,No,New York,0,None,2,8,3,1
+C1268,34,Male,Current,897,52299.67,NEFT,Domestic,Yes,Yes,New York,1,Account Takeover,6,3,16,3
+C1269,55,Other,Salary,821,73253.95,UPI,International,Yes,Yes,London,1,Identity Theft,1,7,1,3
+C1270,41,Female,Salary,816,434.3,ATM,International,No,No,New York,0,None,1,6,23,1
+C1271,22,Female,Savings,417,46784.35,NEFT,Domestic,No,Yes,Bangalore,0,None,2,1,21,0
+C1272,69,Male,Savings,458,29770.59,ATM,International,Yes,No,Hyderabad,0,None,0,7,1,1
+C1273,51,Other,Savings,527,85296.9,UPI,Domestic,No,No,Mumbai,0,None,0,7,11,1
+C1274,23,Female,Current,515,71583.78,UPI,Domestic,Yes,No,Delhi,0,None,0,1,5,0
+C1275,39,Other,Savings,314,58951.94,Online,Domestic,No,No,New York,0,None,0,9,9,1
+C1276,28,Other,Salary,456,27798.84,UPI,Domestic,No,Yes,Singapore,0,None,2,6,22,0
+C1277,65,Male,Salary,560,91042.88,NEFT,International,Yes,No,New York,0,None,1,2,20,0
+C1278,33,Female,Savings,456,4605.56,NEFT,Domestic,Yes,No,New York,0,None,0,5,22,0
+C1279,50,Male,Savings,346,11035.81,NEFT,Domestic,Yes,No,Chennai,1,Identity Theft,1,4,15,3
+C1280,26,Female,Business,623,39223.85,Online,International,No,No,Bangalore,1,Account Takeover,3,7,13,1
+C1281,23,Female,Salary,429,12531.31,Online,Domestic,Yes,Yes,Delhi,0,None,1,8,6,0
+C1282,33,Female,Current,710,95645.93,UPI,International,No,No,Chennai,0,None,0,1,18,1
+C1283,46,Female,Business,394,79819.13,Card,International,Yes,No,Chennai,1,Fake Account,0,5,22,3
+C1284,20,Female,Savings,591,25972.37,Card,International,No,No,Singapore,0,None,0,3,16,1
+C1285,37,Other,Savings,582,58896.57,Online,Domestic,No,No,Hyderabad,0,None,2,1,8,1
+C1286,53,Male,Salary,368,98234.82,UPI,International,No,No,Singapore,0,None,0,3,12,0
+C1287,36,Other,Savings,310,88431.48,Card,International,No,No,Hyderabad,0,None,0,6,21,0
+C1288,43,Female,Current,553,60119.76,UPI,Domestic,No,Yes,Hyderabad,0,None,0,7,4,0
+C1289,20,Male,Salary,849,90382.02,UPI,International,No,No,Delhi,1,Money Laundering,0,8,22,2
+C1290,36,Female,Savings,433,98919.57,UPI,International,No,No,New York,1,Identity Theft,0,4,4,1
+C1291,37,Male,Salary,322,74360.95,Cheque,International,No,No,Delhi,0,None,1,3,9,0
+C1292,49,Other,Savings,645,6592.14,NEFT,International,Yes,No,Bangalore,0,None,0,5,20,1
+C1293,24,Male,Savings,601,40217.87,UPI,International,No,No,Hyderabad,1,Credit Card Fraud,1,9,9,3
+C1294,69,Male,Savings,662,83798.79,Cheque,Domestic,No,Yes,Chennai,0,None,0,6,6,0
+C1295,58,Male,Current,695,23133.86,Online,International,Yes,Yes,New York,1,Phishing,3,9,14,2
+C1296,50,Male,Current,517,83081.19,Card,International,No,No,Mumbai,0,None,1,6,6,1
+C1297,57,Male,Salary,440,12121.84,NEFT,Domestic,No,No,Bangalore,0,None,0,2,14,1
+C1298,56,Female,Savings,509,4789.84,Card,Domestic,No,No,Delhi,0,None,0,5,2,1
+C1299,35,Male,Savings,759,38470.65,NEFT,Domestic,No,No,Singapore,0,None,1,9,18,0
